@@ -7,4 +7,4 @@ addSbtPlugin("org.typelevel" % "sbt-tpolecat" % "0.5.2")
 addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.5.4")
 
 // for reading npmDependencies from package.json
-libraryDependencies ++= Seq("com.lihaoyi" %% "upickle" % "2.0.0")
+libraryDependencies ++= Seq("com.lihaoyi" %% "upickle" % "4.1.0")
